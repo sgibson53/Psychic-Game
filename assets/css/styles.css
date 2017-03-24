@@ -1,0 +1,18 @@
+html, body {
+    font-family: Helvetica, Verdaana, sans-seriff;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 15px 10px;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin: 15px 10px;
+}
+
+p {
+    margin-left: 10px;
+    display: inline-block;
+}
